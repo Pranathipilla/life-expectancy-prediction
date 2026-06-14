@@ -10,14 +10,6 @@ This project explores global life expectancy data, combining **machine learning*
   3. Explainability using **SHAP** values  
   4. Visualization & storytelling with **Power BI**  
 
----
-
-## 📂 Files in This Repository  
-- `life_expectancy_ml.ipynb` → Data cleaning, model training, SHAP explainability  
-- `life_expectancy_dashboard.pbix` → Power BI dashboard file  
-- `dataset.csv` → Cleaned dataset used in the analysis  
-- `/images/` → Screenshots of the Power BI dashboard  
-- `README.md` → Documentation  
 
 ---
 
